@@ -32,13 +32,14 @@ Global Time scales to fit the needs of the observer:
 
 ---
 
-## 4. The Global Date
+## 4. Continuity of Date
 
-In this system, the date is as universal as the time.
+Unlike other universal systems, **Global Time** respects your local calendar.
 
-* The date flips for the entire planet at **⊙ 0000**.
-* Even if your local sun has not risen, if the Kiribati sun has seen the new day, the **Global Date** has advanced.
-* This eliminates the confusion of "Which Tuesday?" in international digital spaces.
+* **The Time:** Synchronized globally (One number for everyone).
+* **The Date:** Remains your local system date (Phone/PC default).
+
+This hybrid approach allows for a seamless transition. You can agree to meet someone at **⊙ 0800** on "Friday," regardless of whether your Friday just started or is halfway finished.
 
 ---
 
