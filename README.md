@@ -13,8 +13,8 @@ Traditional time is a fragmented relic. Current UTC/GMT standards are anchored t
 We reject the 1,000-beat "Internet Time" of the past, as its units are too long for human intuition. Instead, we divide the solar day into **1,500 Beats**.
 
 * **1 Day** = 1,500 Beats
-* **1 Beat** = 60 Pulses ( seconds)
-* **1 Pulse** = 100 Milli-pulses ( seconds)
+* **1 Beat** = 60 Pulses = 57.6s
+* **1 Pulse** = 100 Centi-pulses = 0.96s
 
 This  base creates a "Metric Minute" that feels natural to the human heart rate while maintaining the decimal elegance of a digital system.
 
